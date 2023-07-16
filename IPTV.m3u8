@@ -196,18 +196,4 @@ https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 #EXTINF:59,Praia Nossa Senhora da Rocha
 #EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
-#EXTINF:59,Belros
-#EXTVLCOPT:network-caching=1000
-https://list.iptvcat.com/my_list/s/84369cbd2920e56ae801b80edbeb5c8b.m3u8 	
-#EXTINF:59,Беларусь 24 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://list.iptvcat.com/my_list/s/dd2d4c6177b1768d7b471dfd41ec9062.m3u8
-#EXTINF:59,Первый Музыкальный BY
-#EXTVLCOPT:network-caching=1000
-https://list.iptvcat.com/my_list/s/bf8a6a3797768b0025842e03ab5bedff.m3u8
-#EXTINF:59,Первый Музыкальный BY [FHD]
-#EXTVLCOPT:network-caching=1000
-https://list.iptvcat.com/my_list/s/6b4de4399324c73655df2b552611fd85.m3u8
-#EXTINF:59,Радио ХИТ (Орск)
-#EXTVLCOPT:network-caching=1000
-https://list.iptvcat.com/my_list/s/e9006071f0eb4d196f891580ed875e2d.m3u8
+
