@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:80,RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0,RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:0,SIC
+#EXTVLCOPT:network-caching=1000
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0,TVI
+#EXTVLCOPT:network-caching=1000
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NiBQTSZoYXNoX3ZhbHVlPTNsRkQ1NU5KT3pIaURsNk1kUDRqOEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01ZTMxN2NjZC02NzQ1LTQ3YWYtOWJiZS1kMzZiYzI4ZjVlM2M=/
+#EXTINF:0,RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:0,SIC Notícias
+#EXTVLCOPT:network-caching=1000
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:0,CNN Portugal
+#EXTVLCOPT:network-caching=1000
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPUt1b0tha3dDdWtoVm1QYkxYLzBBR1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zODc5YjI0MC1lYjczLTQzMDAtODc2NS00ZmZmNzc1OWNlM2U=/
+#EXTINF:0,Euronews PT
+#EXTVLCOPT:network-caching=1000
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,ARTV
+#EXTVLCOPT:network-caching=1000
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:0,RTP Memória
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:0,RTP Açores
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0,RTP Madeira
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0,RTP África
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:0,RTP Internacional
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0,TVI Internacional
+#EXTVLCOPT:network-caching=1000
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0NyBQTSZoYXNoX3ZhbHVlPXcrM0psVEZkWUVKS3NsQ0RFTWpMQ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hOTgwNzBlNS1iMjZjLTRlMWItYTdiNy1mZTlkZWY5ODk5NmU=/
+#EXTINF:0,TVI África
+#EXTVLCOPT:network-caching=1000
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0,TVI Ficção
+#EXTVLCOPT:network-caching=1000
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:0,TVI Reality
+#EXTVLCOPT:network-caching=1000
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDIzIDU6MDo0OCBQTSZoYXNoX3ZhbHVlPWQyNDlBblJ6cEJaWE1vY2pPanloMkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ZTA2YTcwYy05MmVlLTRiZGEtOWRlNy04ZjdiMDZhYTBjY2I=/
+#EXTINF:0,SIC Novelas
+#EXTVLCOPT:network-caching=1000
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:0,Porto Canal
+#EXTVLCOPT:network-caching=1000
+https://stream-02.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0jix4kG0j-l48GWnVP_mtuiMJrYSDLv7Vw4RT1tCjw7E)/dm/3/x8egnb8/s/live-2.m3u8
+#EXTINF:60,PBS America
+#EXTVLCOPT:network-caching=1000
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:36,Rakuten Documentaries
+#EXTVLCOPT:network-caching=1000
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Porta dos Fundos
+#EXTVLCOPT:network-caching=1000
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:30,Euronews EN
+#EXTVLCOPT:network-caching=1000
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:32,teleSUR
+#EXTVLCOPT:network-caching=1000
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:14404,RT News
+#EXTVLCOPT:network-caching=1000
+https://rumble.com/live-hls-dvr/2td0fs/playlist.m3u8
+#EXTINF:60,CGTN
+#EXTVLCOPT:network-caching=1000
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:60,CGTN Documentary
+#EXTVLCOPT:network-caching=1000
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:60,Al Jazeera English
+#EXTVLCOPT:network-caching=1000
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:53,CNN
+#EXTVLCOPT:network-caching=1000
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:60,Fox Now
+#EXTVLCOPT:network-caching=1000
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:32,ABC News
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:60,CBS News
+#EXTVLCOPT:network-caching=1000
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:120,Sky News
+#EXTVLCOPT:network-caching=1000
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd.m3u8
+#EXTINF:60,TRT World
+#EXTVLCOPT:network-caching=1000
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:100,NASA TV Public
+#EXTVLCOPT:network-caching=1000
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:100,NASA TV Media
+#EXTVLCOPT:network-caching=1000
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:60,NHK World Japan
+#EXTVLCOPT:network-caching=1000
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:6,Arirang TV
+#EXTVLCOPT:network-caching=1000
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:18,Rai News 24
+#EXTVLCOPT:network-caching=1000
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
+#EXTINF:36,Rakuten Family
+#EXTVLCOPT:network-caching=1000
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:29,Retrô Cartoon
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:30,Anime TV
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:24,On FM Portugal
+#EXTVLCOPT:network-caching=1000
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:30,Rádio Sines
+#EXTVLCOPT:network-caching=1000
+https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
+#EXTINF:60,Trace Urban
+#EXTVLCOPT:network-caching=1000
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:60,Trace Latina
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+#EXTINF:60,Clubbing TV
+#EXTVLCOPT:network-caching=1000
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:27,NRG 91 TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
+#EXTINF:33,4Fun.TV
+#EXTVLCOPT:network-caching=1000
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:30,Sexy KPOP TV
+#EXTVLCOPT:network-caching=1000
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:32,VH1 Italia
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:56,FM Italia TV
+#EXTVLCOPT:network-caching=1000
+https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
+#EXTINF:90,Red Bull TV 
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:36,Abu Dhabi Sports 1
+#EXTVLCOPT:network-caching=1000
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:36,Abu Dhabi Sports 2
+#EXTVLCOPT:network-caching=1000
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:36,Yas TV
+#EXTVLCOPT:network-caching=1000
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:60,Dubai Sports 2
+#EXTVLCOPT:network-caching=1000
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:60,Dubai Sports 3
+#EXTVLCOPT:network-caching=1000
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:59,Armação de Pêra
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+#EXTINF:59,Praia da Galé
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:59,Praia do Peneco
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
