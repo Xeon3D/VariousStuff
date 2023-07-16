@@ -193,3 +193,6 @@ https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
 #EXTINF:59,Praia do Peneco
 #EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:59,Praia Nossa Senhora da Rocha
+#EXTVLCOPT:network-caching=1000
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
