@@ -196,4 +196,54 @@ https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 #EXTINF:59,Praia Nossa Senhora da Rocha
 #EXTVLCOPT:network-caching=1000
 https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
-
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - AXN BLACK HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61974?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - A&E TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61969?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Biggs
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61982?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - BTV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61984?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Canal de Historia
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61987?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - FOX CRIME HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62014?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Canal Panda
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61988?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Discovery Channel
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61996?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Discovery Showcase HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61998?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - FOX Movies HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62021?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Disney Channel
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61999?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Disney Junior
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62000?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",PT - EUROSPORT 1 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62004?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",PT - EUROSPORT 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62005?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - FOX Comedy
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62012?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - NATIONAL GEOGRAPHIC HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62041?checkedby:iptvcat.com
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",PT - Nickelodeon
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62043?checkedby:iptvcat.com
